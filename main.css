@@ -3,7 +3,7 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  justify-content: left;
+  justify-content: center;
 }
 
 section {
@@ -51,7 +51,7 @@ img.profile-pic {
 	align-items: center;
 	flex-wrap: nowrap;
 	flex-direction: row;
-	position: relative;
+	position: left;
 	height: 100%;
 	width: 100%;
 }
