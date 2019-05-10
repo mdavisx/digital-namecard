@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #962164;
 }
 
 .bg-color-white {
@@ -175,7 +175,7 @@ img.profile-pic {
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Playfair', sans-serif;
+	font-family: 'Muli', sans-serif;
 	color: white;
 	font-weight: 300;
 }
